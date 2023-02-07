@@ -52,6 +52,6 @@ minima:
 #
 header_pages:
   - about.md
-  - resume.md
+#  - resume.md
 
 show_excerpts: true
