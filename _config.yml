@@ -10,7 +10,8 @@ description: >
 
 # Build settings
 
-theme: minima
+# theme: minima
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 
 plugins:
   - jekyll-feed
@@ -18,8 +19,8 @@ plugins:
 
 # Theme-specific settings
 
-minima:
-  skin: solarized
+# minima:
+#  skin: solarized
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
