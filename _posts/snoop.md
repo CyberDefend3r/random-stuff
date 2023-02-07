@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Stop Using print() for Debugging When You Can Snoop Instead"
+categories: how-to
+---
+
 # Stop Using print() for Debugging When You Can Snoop Instead
 
 We have all used strategic `print()` statements in our code to make sure our code is running a certain line or to see the value of a variable. This gets a little sloppy and doesn't provide much context into why some code is not behaving as expected. Enter [snoop](https://github.com/alexmojaki/snoop), the super dead simple way to see exactly what the code is doing, the line of code that is executing, and when and what the values of local variables are. This can help us understand the flow of our code and identify issues much faster!
