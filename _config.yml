@@ -13,9 +13,9 @@ description: >
 # theme: minima
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+#plugins:
+#  - jekyll-feed
+#  - jekyll-seo-tag
 
 # Theme-specific settings
 
@@ -51,8 +51,8 @@ plugins:
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
 #
-header_pages:
-  - about.md
+#header_pages:
+#  - about.md
 #  - resume.md
 
 show_excerpts: true
